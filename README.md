@@ -1,5 +1,6 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
-
+## NAME:PRADEEP D
+## REF NO:25006327
 **AIM:**
 
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
@@ -24,16 +25,8 @@
 
 **CIRCUIT DIAGRAM:**
 
-
-
-
-
-
-
-
-
-
-
+![WhatsApp Image 2025-10-24 at 19 54 59_c1160d5b](https://github.com/user-attachments/assets/94ea46d2-b75e-438c-94c6-db293e3fcbcd)
+![WhatsApp Image 2025-10-24 at 19 54 59_01755842](https://github.com/user-attachments/assets/e79ad5de-773f-42df-9f6d-5d7df0294556)
 
 **PROCEDURE:**
 
